@@ -1,0 +1,100 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.resolved
+DerivedData/
+
+# CocoaPods
+Pods/
+*.podspec.json
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Archives & build products
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.framework
+*.xcarchive
+build/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# User-specific settings
+*.swp
+*.swm
+*.swo
+*.swl
+*.idea/
+*.iml
+*.hmap
+
+# SwiftData / Core Data generated files
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Logs
+*.log
+
+# Coverage
+*.xcresult
+*.profdata
+
+# Temporary files
+*.tmp
+*.orig
+
+# SwiftLint cache
+.swiftlint.cache
+
+# Firebase / GoogleService files (keep if needed)
+GoogleService-Info.plist
+
+# XCFramework intermediates
+*.xcframework.zip
+
+# SPM Artifacts
+.artifacts/
+
+# Metal shader intermediates
+*.metallib
+
+# Generated screenshots or previews
+*.png
+*.jpg
+
+# Tuist
+Tuist/Dependencies/
+
+# Xcode 15+ derived data path
+~/Library/Developer/Xcode/DerivedData/
